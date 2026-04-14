@@ -1,0 +1,9 @@
+[Tue Apr 14 02:35:13 UTC 2026] Monitoring sistem...
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          32G  9.5G   21G  32% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/root        29G   18G   12G  61% /vscode
+/dev/loop4       32G  9.5G   21G  32% /workspaces
+/dev/sda1       118G  4.3G  108G   4% /tmp
+------------------------

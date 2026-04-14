@@ -1,0 +1,1 @@
+ echo "data penting perusahaan" > data/sample.txt
